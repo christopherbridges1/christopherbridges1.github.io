@@ -1,9 +1,10 @@
 ---
 layout: page
-title: home
+title: Home
 ---
 
 Welcome to my CS499 Computer Science Portfolio. This portfolio contains my professional self-assessment, code review, milestone narratives, legacy artifact, and enhanced artifact.
+
 
 ## Contents
 - **Professional Self Assessment**: My reflection and introduction to the ePortfolio
