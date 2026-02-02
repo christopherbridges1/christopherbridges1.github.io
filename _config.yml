@@ -1,3 +1,4 @@
 theme: jekyll-theme-minimal
 title: Chris Bridges CS 499 Capstone Portfolio  
 description: Portfolio for Chris Bridges CS 499 Capstone 
+markdown: kramdown
