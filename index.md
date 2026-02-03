@@ -3,33 +3,33 @@ layout: page
 title: Home
 ---
 
-Welcome to my CS499 Computer Science Portfolio. This portfolio contains my professional self-assessment, code review, milestone narratives, legacy artifact, and enhanced artifact.
-
+Welcome to my CS499 Computer Science Portfolio. This ePortfolio contains my professional self-assessment, code review, milestone narratives, artifacts (legacy and enhanced), and a quick repository link.
 
 ## Contents
+
 <div class="section-card">
-[Professional Self-Assessment](/self-assessment/)
-- My reflection and introduction to the ePortfolio
+  <h3><a href="/self-assessment/">Professional Self-Assessment</a></h3>
+  <p>My reflection and formal introduction to the ePortfolio.</p>
 </div>
 
 <div class="section-card">
-###[Code Review](/code-review/)
-- A walkthrough of the original code and the planned improvements
+  <h3><a href="/code-review/">Code Review</a></h3>
+  <p>A walkthrough of the original code, planned improvements, and final enhancements.</p>
 </div>
 
 <div class="section-card">
-###[Artifacts](/artifacts/)
-- The original and enhanced verisons of the artifacts with explanations
+  <h3><a href="/artifacts/">Artifacts</a></h3>
+  <p>The original and enhanced versions of the artifacts with explanations.</p>
 </div>
 
 <div class="section-card">
-###[Milestone Narratives](/narratives/)
-- Written narratives submitted throughout this course
+  <h3><a href="/narratives/">Milestone Narratives</a></h3>
+  <p>Written narratives submitted throughout this course documenting progress and decisions.</p>
 </div>
 
 <div class="section-card">
-###[Repository](/repository/)
-- Link to the GitHub repositories containing the legacy and improved code
+  <h3><a href="/repository/">Repository</a></h3>
+  <p>Links to the GitHub repositories containing the legacy and improved code.</p>
 </div>
 
- Use the navigation links above to view each section
+<p>Use the navigation links above to view each section.</p>
