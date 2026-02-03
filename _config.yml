@@ -4,4 +4,7 @@ description: Portfolio for Chris Bridges CS 499 Capstone
 markdown: kramdown
 
 include:
+  - _pages
   - assets
+
+  permalink: pretty
