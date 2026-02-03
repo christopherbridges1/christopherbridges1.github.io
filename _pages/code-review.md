@@ -15,7 +15,7 @@ permalink: /code-review/
     allowfullscreen></iframe>
 </div>
 
-**Link not working?**  
+Link not working?  
 [Watch on YouTube here](https://youtu.be/ofZQvgdKUV4?si=BZxTMCHV3HPyvAJO)
 
 ## What this code review covers
