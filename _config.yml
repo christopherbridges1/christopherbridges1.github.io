@@ -7,4 +7,4 @@ include:
   - _pages
   - assets
 
-  permalink: pretty
+permalink: pretty
