@@ -13,6 +13,19 @@ Welcome to my CS499 Computer Science Portfolio. This ePortfolio contains my prof
 </div>
 
 <div class="section-card">
+  <h3>
+    <a href="https://cs499-cbridges-esdzb4dya0g4hneb.canadacentral-01.azurewebsites.net/"
+       target="_blank" rel="noopener">
+      CS499 Capstone Web Application
+    </a>
+  </h3>
+  <p>
+    The full-stack web application deployed on Microsoft Azure that demonstrates secure authentication,
+    database integration, and cloud-based deployment.
+  </p>
+</div>
+
+<div class="section-card">
   <h3><a href="{{ '/code-review/' | relative_url }}">Code Review</a></h3>
   <p>A walkthrough of the original code, planned improvements, and final enhancements.</p>
 </div>
