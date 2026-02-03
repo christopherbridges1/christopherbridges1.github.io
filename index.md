@@ -21,7 +21,8 @@ Welcome to my CS499 Computer Science Portfolio. This ePortfolio contains my prof
   </h3>
   <p>
     The full-stack web application deployed on Microsoft Azure that demonstrates secure authentication,
-    database integration, and cloud-based deployment. *admin*/*adminadmin* for admin panel access
+    database integration, and cloud-based deployment. 
+    <em>admin</em>/<em>adminadmin</em> for admin panel access
   </p>
 </div>
 
