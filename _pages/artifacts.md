@@ -8,11 +8,11 @@ This section covers my technical artifacts, including the original and enhanced 
 I chose one artifact and improved it the three categories.
 
 ## Artifact 
-### **Legacy**
+### Legacy
 - View at: [CS340 Grazioso Salvare](https://github.com/christopherbridges1/CS340-Mod-8)
 - Download: [CS340 Grazioso Salvare.zip](/assets/CS340-Mod-8-main.zip)
 
-### **Improved**
+### Improved
 - View at: [CS499 Capstone](https://github.com/christopherbridges1/CS499-MEAN)
 - Download at [CS499 Capstone](/assets/CS499-MEAN-main.zip)
 
