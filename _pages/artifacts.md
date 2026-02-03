@@ -7,22 +7,22 @@ permalink: /artifacts/
 This section covers my technical artifacts, including the original and enhanced version.
 I chose one artifact and improved it the three categories.
 
-##Artifact 
-###**Legacy**
+## Artifact 
+### **Legacy**
 - View at: [CS340 Grazioso Salvare](https://github.com/christopherbridges1/CS340-Mod-8)
 - Download: [CS340 Grazioso Salvare.zip](/assets/CS340-Mod-8-main.zip)
 
-###**Improved**
+### **Improved**
 - View at: [CS499 Capstone](https://github.com/christopherbridges1/CS499-MEAN)
 - Download at [CS499 Capstone](/assets/CS499-MEAN-main.zip)
 
-###Software Design and Engineering
+### Software Design and Engineering
 - Lorem Ipsum Dolor set
 
-###Algorithms and Data Structures
+### Algorithms and Data Structures
 - Lorem Ipsum Dolor set
 
-###Databases
+### Databases
 - Lorem Ipsum Dolor set
 
 
