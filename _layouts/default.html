@@ -1,0 +1,39 @@
+<!doctype html>
+<html lang="{{ page.lang | default: site.lang | default: 'en' }}">
+  <head>
+    <meta charset="utf-8">
+    <title>{% if page.title %}{{ page.title }} · {% endif %}{{ site.title }}</title>
+    <meta name="description" content="{{ page.excerpt | strip_html | strip_newlines | default: site.description }}">
+    <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+    {% include head-custom.html %}
+  </head>
+  <body>
+    <a class="skip-link" href="#main">Skip to content</a>
+    <header class="site-header">
+      <div class="wrapper">
+        {% include nav.html %}
+      </div>
+    </header>
+
+    <main id="main" class="wrapper content" role="main">
+      {{ content }}
+    </main>
+
+    <footer class="site-footer">
+      <div class="wrapper">
+        <p>
+          © {{ site.time | date: '%Y' }} {{ site.title }} ·
+          <a href="https://github.com/{{ site.github.owner_name | default: 'christopherbridges1' }}">GitHub</a>
+        </p>
+      </div>
+    </footer>
+
+    <script>
+      // Closes the mobile nav when a link is clicked
+      document.addEventListener('click', (e) => {
+        const a = e.target.closest('.nav-links a');
+        if (a) document.body.classList.remove('nav-open');
+      });
+    </script>
+  </body>
+</html>
