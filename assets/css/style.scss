@@ -1,5 +1,7 @@
-@import "{{ site.theme }}";
+---
+---
 
+@import "{{ site.theme }}";
 body {
   font-size: 16px;
   line-height: 1.6;
@@ -24,7 +26,8 @@ a:hover {
 .section-card {
   padding: 16px 18px;
   margin: 14px 0;
-  border: 1px solid rgba(0,0,0,0.08);
+  border: 1px solid rgba(0,0,0,0.12);
   border-radius: 10px;
-  background: rgba(255,255,255,0.02);
+  background: #fff;
+  box-shadow: 0 1px 3px rgba(0,0,0,0.06);
 }
