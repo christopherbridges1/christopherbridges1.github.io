@@ -8,27 +8,27 @@ Welcome to my CS499 Computer Science Portfolio. This ePortfolio contains my prof
 ## Contents
 
 <div class="section-card">
-  <h3><a href="/self-assessment/">Professional Self-Assessment</a></h3>
+  <h3><a href="{{ '/self-assessment/' | relative_url }}">Professional Self-Assessment</a></h3>
   <p>My reflection and formal introduction to the ePortfolio.</p>
 </div>
 
 <div class="section-card">
-  <h3><a href="/code-review/">Code Review</a></h3>
+  <h3><a href="{{ '/code-review/' | relative_url }}">Code Review</a></h3>
   <p>A walkthrough of the original code, planned improvements, and final enhancements.</p>
 </div>
 
 <div class="section-card">
-  <h3><a href="/artifacts/">Artifacts</a></h3>
+  <h3><a href="{{ '/artifacts/' | relative_url }}">Artifacts</a></h3>
   <p>The original and enhanced versions of the artifacts with explanations.</p>
 </div>
 
 <div class="section-card">
-  <h3><a href="/narratives/">Milestone Narratives</a></h3>
-  <p>Written narratives submitted throughout this course documenting progress and decisions.</p>
+  <h3><a href="{{ '/narratives/' | relative_url }}">Milestone Narratives</a></h3>
+  <p>Written narratives submitted throughout the course documenting progress and decisions.</p>
 </div>
 
 <div class="section-card">
-  <h3><a href="/repository/">Repository</a></h3>
+  <h3><a href="{{ '/repository/' | relative_url }}">Repositories</a></h3>
   <p>Links to the GitHub repositories containing the legacy and improved code.</p>
 </div>
 
