@@ -6,6 +6,9 @@ permalink: /code-review/
 
 ## Code Review Video
 
+This is a code review I created for the CS 340 Grazioso Salvare project where 
+I identify problem areas and Solutions I would cover in the enhanced version. 
+
 <div class="video">
   <iframe
     src="https://www.youtube.com/embed/ofZQvgdKUV4"
@@ -24,3 +27,4 @@ Link not working?
 - Algorithms and data handling decisions
 - Software engineering and database integration
 - Security improvements and risk mitigation 
+- Potential enhancements for Capstone Project 
