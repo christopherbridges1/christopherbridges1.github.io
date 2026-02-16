@@ -43,8 +43,8 @@ Welcome to my CS499 Computer Science Portfolio. This ePortfolio contains my prof
   </div>
   
   <div class="section-card">
-    <h3><a href="{{ '/repository/' | relative_url }}">Repositories</a></h3>
-    <p>Links to the GitHub repositories containing the legacy and improved code.</p>
+    <h3><a href="{{ '/repository/' | relative_url }}">Repositories/Files</a></h3>
+    <p>Links to the GitHub repositories containing the legacy, improved code, and all other assignments.</p>
   </div>
 </div>
 <p>Use the navigation links above to view each section.</p>
