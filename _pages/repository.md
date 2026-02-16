@@ -12,7 +12,7 @@ This page provides easy access to the GitHub repositories associated with this p
 
 - [Portfolio Website Repository](https://github.com/christopherbridges1/christopherbridges1.github.io)
 
-- [CS 499 Module One Assignment](assets/CS 499 Module One Assignment Template.docx)
+- [CS 499 Module One Assignment](/assets/CS 499 Module One Assignment Template.docx)
 
 - [2-1 Journal: What makes a Productive Code Review](/assets/2-1 journal.docx)
 
