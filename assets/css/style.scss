@@ -1,8 +1,6 @@
 ---
 ---
 
-@import "{{ site.theme }}";
-
 /* Design */
 :root {
   --bg: #0b1220;
@@ -187,6 +185,8 @@ pre, code {
 
   body.nav-open .nav-links { display: flex; }
 }
+
+/* Jekyll Override */
 
 /* Cards */
 .section-card {
