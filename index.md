@@ -47,6 +47,7 @@ Welcome to my CS499 Computer Science Portfolio. This ePortfolio contains my prof
     <p>Links to the GitHub repositories containing the legacy, improved code, and all other assignments.</p>
   </div>
 </div>
-<p>Use the navigation links above to view each section.
-Check out my other Portfolio[(https://www.christopherbridges.com](https://www.christopherbridges.com)
+<p>Use the navigation links above to view each section. </p>
+<p>
+Check out my other Portfolio: [christopherbridges.com](https://www.christopherbridges.com)
 </p>
