@@ -7,7 +7,7 @@ permalink: /code-review/
 ## Code Review Video
 
 This is a code review I created for the CS 340 Grazioso Salvare project where 
-I identify problem areas and Solutions I would cover in the enhanced version. 
+I identify problem areas and solutions I would cover in the enhanced version. 
 
 <div class="video">
   <iframe
