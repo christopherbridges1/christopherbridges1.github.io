@@ -23,7 +23,7 @@ and database development to demonstrate growth aligned with program outcomes.
 - Download at [CS499 Capstone](/assets/CS499-MEAN-main.zip)
 
 
-## Stack
+## Improved Version Stack
 
 ### Software Design and Engineering
 - Node.js with Express REST API architecture
