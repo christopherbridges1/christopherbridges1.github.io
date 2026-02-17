@@ -48,3 +48,4 @@ Welcome to my CS499 Computer Science Portfolio. This ePortfolio contains my prof
   </div>
 </div>
 <p>Use the navigation links above to view each section.</p>
+Check out my other Portfolio[(https://www.christopherbridges.com](https://www.christopherbridges.com)
