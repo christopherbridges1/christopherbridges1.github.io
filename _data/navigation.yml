@@ -2,6 +2,8 @@
   url: /
 - title: Self-Assessment
   url: /self-assessment/
+- title: Web App
+  url: https://cs499-cbridges-esdzb4dya0g4hneb.canadacentral-01.azurewebsites.net/
 - title: Code Review
   url: /code-review/
 - title: Artifacts
