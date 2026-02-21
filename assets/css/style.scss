@@ -141,12 +141,15 @@ pre, code {
   gap: 16px;
   margin: 0;
   padding: 0;
-  flex-wrap: wrap;             
+  flex-wrap: nowrap;
+  white-space: nowrap;
+  overflow-x: auto;
   justify-content: center;
 }
 
 .nav-links a {
   display: inline-block;
+  white-space: nowrap;
   padding: 8px 10px;
   border-radius: var(--radius-sm);
   color: rgba(229,231,235,0.92);
