@@ -29,7 +29,7 @@ I defined requirements, separated architectural concerns, implemented modular de
 The use of role-based authentication and environment configuration shows a design approach that meets real world production requirements.
 These improvements also supported collaborative review by improving readability, maintainability, and clarity for future developers or stakeholders.
 
-### [Algorithms and Data Structures Enhancements](/assets/Narrative Algorithms and Data Structure Enhancements.docx)
+### [Algorithms and Data Structures Enhancements](/assets/Narrative Algorithm and Data Structure Enhancements.docx)
 For the algorithms and data structures section, I focused on improving how the application handles user interactions and decision-making.
 Using a unified login process allows both customers and administrators to log in through a single-entry point while still being routed to the correct areas of the application based on their role.
 Additional logic was added to validate input, manage application state, and efficiently handle user-specific data such as favorites.
