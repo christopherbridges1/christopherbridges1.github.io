@@ -4,8 +4,6 @@ title: Professional Self-Assessment
 permalink: /self-assessment/
 ---
 
-## Self Assessment
-
 ### Introduction
 My name is Chris Bridges and I’m completing my Bachelor of Science in Computer Science at Southern New Hampshire University. When I started this program, I had an interest in technology, but I didn’t fully understand how to design, structure, and evaluate software at a professional level. Through coursework and projects, I developed technical skills and a better understanding of how systems are built, secured, and maintained. I’ve grown from creating simple C# console apps to creating full stack web applications using enterprise level cloud services.
 Building this ePortfolio has helped me step back and see how much I’ve grown. It highlights not only what I built, but how my knowledge and experience have improved. How I went from simply writing functional code to designing and deploying secure and scalable systems. I plan to continue my academic journey with a master’s degree with an end goal of a Doctor of Engineering degree. 
