@@ -31,4 +31,4 @@ Throughout my academic career at SNHU, security has always been a priority. Lear
 The artifact I chose to demonstrate cohesively blends all 3 enhancements: Software design and engineering, algorithms and data structure, and databases into a full stack web application. I reviewed legacy code from a previous Python assignment and created a modern solution using similar functionality but with cloud services and API calls. The capstone project allowed me to demonstrate my growth in system design, security awareness, documentation and communication, and how my technical skills have improved. 
 
 ## Download
-- [Professional Self-Assessment (DOCX)](/assets/docs/Professional-Self-Assessment.docx)
+- [Professional Self-Assessment](/assets/docs/Professional Self Assessment.docx)
