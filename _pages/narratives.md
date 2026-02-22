@@ -53,12 +53,11 @@ By incorporating validation and access control at multiple layers, I demonstrate
 Rebuilding this application was more challenging than I initially expected, especially when it came to restructuring the architecture and deploying everything to the cloud. 
 Working through these challenges helped me better understand how real-world applications are developed, tested, and maintained.
 Throughout the process, I applied feedback from coursework and learned to adapt my approach as new issues came up. 
-By the end of the project, the application had grown from a basic  assignment into a more realistic system that reflects professional development practices.
+By the end of the project, the application had grown from a basic assignment into a more realistic system that reflects professional development practices.
 
 ### Course Outcomes Alignment
-Through the enhancement of this artifact, I was able to demonstrate the following Computer Science program outcomes:
-- Designing and evaluating computing solutions using algorithmic principles
-- Applying software engineering practices to create secure and maintainable systems
-- Building and integrating database-driven applications
-- Demonstrating a security mindset through authentication, authorization, and secure configuration
-- Using modern tools and cloud technologies to deliver practical software solutions
+Enhancing the Grazioso Salvare application demonstrates growth across collaborative development, communication, algorithmic design, software engineering practices, and database principles while maintaining a security first mindset.
+By restructuring the application into a modern full stack web application, performing a code review, documenting design decisions, testing, and deploying securely to the cloud, I demonstrated my abilities to perform at a professional level.
+Rather than focus on functionality, I emphasized maintainability, scalability, and security.
+Software development is more than simply writing code; It's about data protection, supporting stakeholders, and making informed architectural decisions that align with industry standards.  
+
