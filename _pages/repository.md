@@ -29,3 +29,11 @@ This page provides easy access to the GitHub repositories associated with this p
 - [5-1 Journal: Computer Science Trends and Artifact Update](/assets/5-1 Journal Computer Science Trends and Artifact Update.docx)
 
 - [5-2 Milestone Four: Enhancement Three Databases](/assets/5-2 Milestone Four Enhancement Three Databases.docx)
+
+- [Software Design and Engineering Enhancements](/assets/Narrative Software Design and Engineering Enhancements.docx)
+
+- [Algorithms and Data Structures Enhancements](/assets/Narrative Algorithm and Data Structure Enhancements.docx)
+
+- [Database Enhancements](/assets/Narrative Database Enhancements.docx)
+
+- 
